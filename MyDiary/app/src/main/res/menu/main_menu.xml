@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/m1"
+        android:title="일정 한눈에 보기"
+        />
+<!--    <item
+        android:id="@+id/m2"
+        android:title="frag2"
+        />
+    <item
+        android:id="@+id/m3"
+        android:title="frag3"/>-->
+
+</menu>
